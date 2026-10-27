@@ -15,8 +15,8 @@ Your own AI office. A self-hosted personal AI for goals, money, people and proje
 </td>
 <td width="50%" valign="top">
 <a href="https://resepta.xyz"><img src="images/resepta.png" alt="Resepta"></a>
-<h4><a href="https://github.com/serdarsalim/randevu">Resepta</a></h4>
-AI front desk for salons and clinics. It answers the phone, books the appointment and sends the reminder. <a href="https://resepta.xyz">See it live</a> · <a href="https://github.com/serdarsalim/randevu">Code</a>
+<h4><a href="https://github.com/serdarsalim/Resepta-AI-Receptionist">Resepta</a></h4>
+AI front desk for salons and clinics. It answers the phone, books the appointment and sends the reminder. <a href="https://resepta.xyz">See it live</a> · <a href="https://github.com/serdarsalim/Resepta-AI-Receptionist">Code</a>
 </td>
 </tr>
 <tr>

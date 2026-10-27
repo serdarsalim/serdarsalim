@@ -22,7 +22,7 @@ AI front desk for salons and clinics. It answers the phone, books the appointmen
 <td width="50%" valign="top">
 <a href="https://blog.serdarsalim.com"><img src="images/blog.png" alt="Blog CMS"></a>
 <h4><a href="https://github.com/serdarsalim/Multi-Tenant-Blog-CMS">Blog CMS</a></h4>
-The self-hosted blog I write on, with a built-in editor and a publish API. <a href="https://blog.serdarsalim.com">See it live</a> · <a href="https://github.com/serdarsalim/Multi-Tenant-Blog-CMS">Code</a>
+The self-hosted blog I write on, with a built-in editor and a publish API. <a href="https://blog.serdarsalim.com">See it live</a>
 </td>
 <td width="50%" valign="top">
 <h4>Smaller tools</h4>

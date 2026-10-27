@@ -14,9 +14,9 @@ I build apps, voice agents and automations, for my own products and for clients.
 Your own AI office. A self-hosted personal AI for goals, money, people and projects. <a href="https://mana.serdarsalim.com">Try the demo</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/serdarsalim/openport"><img src="images/openport.png" alt="OpenPort"></a>
-<h4><a href="https://github.com/serdarsalim/openport">OpenPort</a></h4>
-Free Mac app that starts, stops and watches all your local dev servers from one window.
+<a href="https://resepta.xyz"><img src="images/resepta.png" alt="Resepta"></a>
+<h4><a href="https://resepta.xyz">Resepta</a></h4>
+AI front desk for salons and clinics. It answers the phone, books the appointment and sends the reminder. <a href="https://resepta.xyz">See it live</a>
 </td>
 </tr>
 <tr>
@@ -27,6 +27,7 @@ The self-hosted blog I write on, with a built-in editor and a publish API.
 </td>
 <td width="50%" valign="top">
 <h4>Smaller tools</h4>
+<a href="https://github.com/serdarsalim/openport"><b>OpenPort</b></a>: free Mac app that starts, stops and watches all your local dev servers from one window.<br><br>
 <a href="https://github.com/serdarsalim/Apple-Voice-Memos-Transcriber"><b>Oh Memo</b></a>: search, export and summarize your Apple Voice Memos transcripts.<br><br>
 <a href="https://github.com/serdarsalim/N8N-Tester-Webapp"><b>n8n studio</b></a>: test and debug n8n workflows with every node's input and output on one screen.
 </td>

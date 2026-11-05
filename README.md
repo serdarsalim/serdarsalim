@@ -28,7 +28,7 @@ The self-hosted blog I write on, with a built-in editor and a publish API. <a hr
 <h4>Smaller tools</h4>
 <a href="https://github.com/serdarsalim/openport"><b>OpenPort</b></a>: free Mac app that starts, stops and watches all your local dev servers from one window.<br><br>
 <a href="https://github.com/serdarsalim/Apple-Voice-Memos-Transcriber"><b>Oh Memo</b></a>: search, export and summarize your Apple Voice Memos transcripts.<br><br>
-<a href="https://github.com/serdarsalim/N8N-Tester-Webapp"><b>n8n studio</b></a>: test and debug n8n workflows with every node's input and output on one screen.
+<a href="https://github.com/serdarsalim/shotname"><b>macOS Screenshot Namer</b></a>: screenshots that name themselves from the app and window you captured, instead of "Screenshot 2026-11-04 at 11.37.32 AM".
 </td>
 </tr>
 </table>

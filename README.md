@@ -20,12 +20,13 @@ AI front desk for salons and clinics. It answers the phone, books the appointmen
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://blog.serdarsalim.com"><img src="images/blog.png" alt="Blog CMS"></a>
-<h4><a href="https://github.com/serdarsalim/Multi-Tenant-Blog-CMS">Blog CMS</a></h4>
-The self-hosted blog I write on, with a built-in editor and a publish API. <a href="https://blog.serdarsalim.com">See it live</a>
+<a href="https://time-off.autotakt.dev"><img src="images/timeoff.png" alt="Time Off"></a>
+<h4><a href="https://github.com/serdarsalim/Time-Off-Management">Time Off</a></h4>
+Leave management for teams spread across countries. Requests, approvals, balances and a shared calendar, with each country's own leave rules. <a href="https://time-off.autotakt.dev">Try the demo</a>
 </td>
 <td width="50%" valign="top">
-<h4>Smaller tools</h4>
+<h4>Other projects</h4>
+<a href="https://github.com/serdarsalim/Multi-Tenant-Blog-CMS"><b>Blog CMS</b></a>: the self-hosted blog I write on, with a built-in editor and a publish API. <a href="https://blog.serdarsalim.com">See it live</a><br><br>
 <a href="https://github.com/serdarsalim/openport"><b>OpenPort</b></a>: free Mac app that starts, stops and watches all your local dev servers from one window.<br><br>
 <a href="https://github.com/serdarsalim/Apple-Voice-Memos-Transcriber"><b>Oh Memo</b></a>: search, export and summarize your Apple Voice Memos transcripts.<br><br>
 <a href="https://github.com/serdarsalim/shotname"><b>macOS Screenshot Namer</b></a>: screenshots that name themselves from the app and window you captured, instead of "Screenshot 2026-11-04 at 11.37.32 AM".

@@ -37,9 +37,9 @@ Leave management for teams spread across countries. Requests, approvals, balance
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Money Is the Tool](https://blog.serdarsalim.com/posts/money-is-the-tool-6c76995f)
 - [Recursive self improvement](https://blog.serdarsalim.com/posts/recursive-self-improvement-9b8bc364)
 - [How I gave Claude and Codex one shared memory](https://blog.serdarsalim.com/posts/how-i-gave-claude-and-codex-one-shared-memory-71c54ba0)
 - [When the Rope Runs Out](https://blog.serdarsalim.com/posts/when-the-rope-runs-out-2e6990e5)
 - [Justice needs a sword](https://blog.serdarsalim.com/posts/justice-needs-a-sword)
-- [My Favorite Istanbul Mosques](https://blog.serdarsalim.com/posts/my-favorite-istanbul-mosques)
 <!-- BLOG-POST-LIST:END -->
